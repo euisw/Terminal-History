@@ -18,6 +18,6 @@ var TerminalHistory = {
     window.open('History/Terminal & History_History.html', '_self')
   },
   openIndex : function() {
-    window.open('/index.html', '_self');
+    window.open('../index.html', '_self');
   }
 }
